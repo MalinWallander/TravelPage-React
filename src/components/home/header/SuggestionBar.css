@@ -1,0 +1,28 @@
+.suggestion-wrapper {
+    top: 89%;
+    left: 0%;
+    position: absolute;
+    width: 100%;
+    padding-top: .7rem;
+    background-color: #e7e7e7;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.suggestion {
+    padding: 1rem;
+    cursor: pointer;
+    text-align: left;
+}
+
+.suggestion:hover {
+    background-color: rgba(0, 0, 0, 0.048);
+}
+
+.no-match {
+    text-align: center;
+    cursor: default;
+}
+.no-match:hover {
+    background: none;
+}

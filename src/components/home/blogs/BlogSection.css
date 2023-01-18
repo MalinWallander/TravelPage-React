@@ -1,0 +1,81 @@
+*,
+ul {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.blogSection {
+  width: 1376px;
+  margin: 120px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.sectionTitle {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 600;
+}
+
+.allButton {
+  background-color: #f6f4ff;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  gap: 7px;
+  width: fit-content;
+}
+
+.allButtonText {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: var(--purple-dark);
+}
+.allButton:hover {
+  cursor: pointer;
+}
+
+.arrow-right {
+  width: 13px;
+  height: auto;
+}
+
+.blogHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.blogCards {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 1000px) {
+  .blogSection {
+    width: 100vw;
+    margin: 40px auto;
+    padding: 30px;
+    gap: 30px;
+  }
+
+  .blogCards {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+
+  .blogCards::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
+}

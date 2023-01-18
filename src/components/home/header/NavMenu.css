@@ -1,0 +1,27 @@
+.nav-menu {
+    display: flex;
+    gap: 3.4rem;
+
+}
+
+.nav-item{
+    opacity: .7;
+    font-size: .8rem;
+    font-weight: 300;
+    transition: opacity .3s;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.nav-item:hover {
+
+    opacity: .9;
+
+}
+
+.nav-item .active{
+    opacity: 1;
+}

@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.popularHotels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 64px;
+
+  width: 1376px;
+  height: auto;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.hotelsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 32px;
+
+  width: 1376px;
+  height: auto;
+}
+
+.hotelHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 10px;
+
+  width: 1376px;
+  height: 48px;
+}
+
+.buttonMore {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 4px;
+  color: #5243c2;
+  border: none;
+  white-space: nowrap;
+
+  background: #f6f4ff;
+  border-radius: 12px;
+}
+.labelButton {
+  padding: 0px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.buttonMore:hover {
+  cursor: pointer;
+}
+
+.imageHotel {
+  width: 320px;
+  height: 380px;
+  object-fit: cover;
+  background: #c7c7c7;
+  border-radius: 12px;
+}
+
+.hotelInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+
+  width: 320px;
+  height: 56px;
+}
+
+.name {
+  width: 280px;
+  height: 24px;
+  text-align: left;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #161414;
+}
+
+.location {
+  color: #979797;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 4px;
+  font-size: 13px;
+}
+
+.hotelBox:hover {
+  cursor: pointer;
+}

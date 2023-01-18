@@ -1,0 +1,462 @@
+[
+  {
+    "countryName": "Italy",
+    "slug": "italy",
+    "cities": [
+      {
+        "cityName": "Rome",
+        "imgPath": "../Images/rome.avif"
+      },
+      {
+        "cityName": "Milan",
+        "imgPath": "../Images/milan.avif"
+      },
+      {
+        "cityName": "Naples",
+        "imgPath": "../Images/naples.avif"
+      },
+      {
+        "cityName": "Venice",
+        "imgPath": "../Images/venice.avif"
+      },
+      {
+        "cityName": "Florence",
+        "imgPath": "../Images/florence.avif"
+      }
+    ],
+    "currency": "Euro",
+    "imgPath": "../Images/italy.avif"
+  },
+  {
+    "countryName": "Sweden",
+    "slug": "sweden",
+    "cities": [
+      {
+        "cityName": "Stockholm",
+        "imgPath": "../Images/stockholm.avif"
+      },
+      {
+        "cityName": "Gothenburg",
+        "imgPath": "../Images/gothenburg.avif"
+      },
+      {
+        "cityName": "Malmo",
+        "imgPath": "../Images/malmo.avif"
+      }
+    ],
+    "currency": "Swedinsh krona",
+    "imgPath": "../Images/sweden.avif"
+  },
+  {
+    "countryName": "United States of America",
+    "slug": "usa",
+    "cities": [
+      {
+        "cityName": "New York",
+        "imgPath": "../Images/new-york.avif"
+      },
+      {
+        "cityName": "San Francisco",
+        "imgPath": "../Images/san-francisco.avif"
+      },
+      {
+        "cityName": "Los Angeles",
+        "imgPath": "../Images/los-angeles.avif"
+      },
+      {
+        "cityName": "New Orleans",
+        "imgPath": "../Images/new-orleans.avif"
+      },
+      {
+        "cityName": "Austin",
+        "imgPath": "../Images/austin.avif"
+      }
+    ],
+    "currency": "Dollar",
+    "imgPath": "../Images/usa.avif"
+  },
+  {
+    "countryName": "Thailand",
+    "slug": "thailand",
+    "cities": [
+      {
+        "cityName": "Bangkok",
+        "imgPath": "../Images/bangkok.avif"
+      },
+      {
+        "cityName": "Phuket",
+        "imgPath": "../Images/phuket.avif"
+      },
+      {
+        "cityName": "Krabi",
+        "imgPath": "../Images/krabi.avif"
+      }
+    ],
+    "currency": "Baht",
+    "imgPath": "../Images/thailand.avif"
+  },
+  {
+    "countryName": "Australia",
+    "slug": "australia",
+    "cities": [
+      {
+        "cityName": "Sydney",
+        "imgPath": "../Images/sydney.avif"
+      },
+      {
+        "cityName": "Perth",
+        "imgPath": "../Images/perth.avif"
+      },
+      {
+        "cityName": "Melbourne",
+        "imgPath": "../Images/melbourne.avif"
+      },
+      {
+        "cityName": "Gold coast",
+        "imgPath": "../Images/gold-coast.avif"
+      }
+    ],
+    "currency": "Australian dollars",
+    "imgPath": "../Images/bangkok.avif"
+  },
+  {
+    "countryName": "Tanzania",
+    "slug": "tanzania",
+    "cities": [
+      {
+        "cityName": "Dar es Salaam",
+        "imgPath": "../Images/dar-es-salaam.avif"
+      },
+      {
+        "cityName": "Zanzibar",
+        "imgPath": "../Images/zanzibar.avif"
+      }
+    ],
+    "currency": "Tanzanian Shilling",
+    "imgPath": "../Images/tanzania.avif"
+  },
+  {
+    "countryName": "Iran",
+    "slug": "iran",
+    "cities": [
+      {
+        "cityName": "Tehran",
+        "imgPath": "../Images/rio-de-janeiro.avif"
+      },
+      {
+        "cityName": "Mashhad",
+        "imgPath": "../Images/mashhad.avif"
+      },
+      {
+        "cityName": "Isfahan",
+        "imgPath": "../Images/isfahan.avif"
+      }
+    ],
+    "currency": "Rial",
+    "imgPath": "../Images/iran.avif"
+  },
+  {
+    "countryName": "Germany",
+    "slug": "germany",
+    "cities": [
+      {
+        "cityName": "Berlin",
+        "imgPath": "../Images/berlin.avif"
+      },
+      {
+        "cityName": "Munich",
+        "imgPath": "../Images/munich.avif"
+      },
+      {
+        "cityName": "Darmstadt",
+        "imgPath": "../Images/darmstadt.avif"
+      },
+      {
+        "cityName": "Hamburg",
+        "imgPath": "../Images/hamburg.avif"
+      }
+    ],
+    "currency": "Euro",
+    "imgPath": "../Images/germany.avif"
+  },
+  {
+    "countryName": "Vietnam",
+    "slug": "vietnam",
+    "cities": [
+      {
+        "cityName": "Hanoi",
+        "imgPath": "../Images/hanoi.avif"
+      },
+      {
+        "cityName": "Ho Chi Minh City",
+        "imgPath": "../Images/hochiminh.avif"
+      },
+      {
+        "cityName": "Da Nang",
+        "imgPath": "../Images/danang.avif"
+      }
+    ],
+    "currency": "Dong",
+    "imgPath": "../Images/vietnam.avif"
+  },
+  {
+    "countryName": "Japan",
+    "slug": "japan",
+    "cities": [
+      {
+        "cityName": "Tokyo",
+        "imgPath": "../Images/tokyo.avif"
+      },
+      {
+        "cityName": "Kyoto",
+        "imgPath": "../Images/kyoto.avif"
+      },
+      {
+        "cityName": "Osaka",
+        "imgPath": "../Images/osaka.avif"
+      },
+      {
+        "cityName": "Fukuoka",
+        "imgPath": "../Images/fukuoka.avif"
+      }
+    ],
+    "currency": "Yen",
+    "imgPath": "../Images/japan.avif"
+  },
+  {
+    "countryName": "Argentina",
+    "slug": "argentina",
+    "cities": [
+      {
+        "cityName": "Buenos Aires",
+        "imgPath": "../Images/buenos-aires.avif"
+      },
+      {
+        "cityName": "Ushuaia",
+        "imgPath": "../Images/ushuaia.avif"
+      },
+      {
+        "cityName": "Rosario",
+        "imgPath": "../Images/rosario.avif"
+      },
+      {
+        "cityName": "La Plata",
+        "imgPath": "../Images/la-plata.avif"
+      }
+    ],
+    "currency": "Argentine peso",
+    "imgPath": "../Images/argentina.avif"
+  },
+  {
+    "countryName": "China",
+    "slug": "china",
+    "cities": [
+      {
+        "cityName": "Beijing",
+        "imgPath": "../Images/beijing.avif"
+      },
+      {
+        "cityName": "Shanghai",
+        "imgPath": "../Images/shanghai.avif"
+      },
+      {
+        "cityName": "Xian",
+        "imgPath": "../Images/xian.avif"
+      },
+      {
+        "cityName": "Chongqing",
+        "imgPath": "../Images/chongqing.avif"
+      }
+    ],
+    "currency": "Renminbi",
+    "imgPath": "../Images/china.avif"
+  },
+  {
+    "countryName": "Greece",
+    "slug": "greece",
+    "cities": [
+      {
+        "cityName": "Athens",
+        "imgPath": "../Images/athens.avif"
+      },
+      {
+        "cityName": "Corfu",
+        "imgPath": "../Images/corfu.avif"
+      },
+      {
+        "cityName": "Crete",
+        "imgPath": "../Images/crete.avif"
+      },
+      {
+        "cityName": "Thessaloniki",
+        "imgPath": "../Images/thessaloniki.avif"
+      },
+      {
+        "cityName": "Santorini",
+        "imgPath": "../Images/santorini.avif"
+      }
+    ],
+    "currency": "Euro",
+    "imgPath": "../Images/greece.avif"
+  },
+  {
+    "countryName": "Turkey",
+    "slug": "turkey",
+    "cities": [
+      {
+        "cityName": "Istanbul",
+        "imgPath": "../Images/istanbul.avif"
+      },
+      {
+        "cityName": "Ankara",
+        "imgPath": "../Images/ankara.avif"
+      },
+      {
+        "cityName": "Cappadocia",
+        "imgPath": "../Images/cappadocia.avif"
+      }
+    ],
+    "currency": "Turkish Lira",
+    "imgPath": "../Images/turkey.avif"
+  },
+  {
+    "countryName": "Fiji",
+    "slug": "fiji",
+    "cities": [
+      {
+        "cityName": "Suva",
+        "imgPath": "../Images/suva.avif"
+      },
+      {
+        "cityName": "Labasa",
+        "imgPath": "../Images/labasa.avif"
+      },
+      {
+        "cityName": "Lautoka",
+        "imgPath": "../Images/lautoka.avif"
+      },
+      {
+        "cityName": "Kuata",
+        "imgPath": "../Images/kuata.avif"
+      }
+    ],
+    "currency": "Fijian dollar",
+    "imgPath": "../Images/fiji.avif"
+  },
+  {
+    "countryName": "Costa Rica",
+    "slug": "costa-rica",
+    "cities": [
+      {
+        "cityName": "San Jose",
+        "imgPath": "../Images/san-jose.avif"
+      },
+      {
+        "cityName": "Puntarenas",
+        "imgPath": "../Images/puntarenas.avif"
+      },
+      {
+        "cityName": "Puerto Limon",
+        "imgPath": "../Images/puerto-limon.avif"
+      }
+    ],
+    "currency": "Costa Rica Colon",
+    "imgPath": "../Images/costa-rica.avif"
+  },
+  {
+    "countryName": "India",
+    "slug": "india",
+    "cities": [
+      {
+        "cityName": "Mumbai",
+        "imgPath": "../Images/mumbai.avif"
+      },
+      {
+        "cityName": "New Delhi",
+        "imgPath": "../Images/new-delhi.avif"
+      },
+      {
+        "cityName": "Calcutta",
+        "imgPath": "../Images/calcutta.avif"
+      },
+      {
+        "cityName": "Bangalore",
+        "imgPath": "../Images/bangalore.avif"
+      },
+      {
+        "cityName": "Agra",
+        "imgPath": "../Images/agra.avif"
+      }
+    ],
+    "currency": "Indian Rupee",
+    "imgPath": "../Images/india.avif"
+  },
+  {
+    "countryName": "Morocco",
+    "slug": "morocco",
+    "cities": [
+      {
+        "cityName": "Rabat",
+        "imgPath": "../Images/rabat.avif"
+      },
+      {
+        "cityName": "Marrakech",
+        "imgPath": "../Images/marrakech.avif"
+      },
+      {
+        "cityName": "Casablanca",
+        "imgPath": "../Images/casablanca.avif"
+      }
+    ],
+    "currency": "Moroccan dirham",
+    "imgPath": "../Images/morocco.avif"
+  },
+  {
+    "countryName": "Peru",
+    "slug": "peru",
+    "cities": [
+      {
+        "cityName": "Lima",
+        "imgPath": "../Images/lima.avif"
+      },
+      {
+        "cityName": "Cusco",
+        "imgPath": "../Images/cusco.avif"
+      },
+      {
+        "cityName": "Aguas Calientes",
+        "imgPath": "../Images/aguas-calientes.avif"
+      },
+      {
+        "cityName": "Trujillo",
+        "imgPath": "../Images/trujillo.avif"
+      }
+    ],
+    "currency": "Peso",
+    "imgPath": "../Images/peru.avif"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "slug": "puerto-rico",
+    "cities": [
+      {
+        "cityName": "San Juan",
+        "imgPath": "../Images/san-juan.avif"
+      },
+      {
+        "cityName": "Ponce",
+        "imgPath": "../Images/ponce.avif"
+      },
+      {
+        "cityName": "Caguas",
+        "imgPath": "../Images/caguas.avif"
+      },
+      {
+        "cityName": "Aguadilla",
+        "imgPath": "../Images/aguadilla.avif"
+      }
+    ],
+    "currency": "Dollar",
+    "imgPath": "../Images/puerto-rico.avif"
+  }
+]
